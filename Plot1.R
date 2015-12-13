@@ -1,3 +1,5 @@
+library(sqldf)
+
 setwd("~/learning_r/ExData_Plotting1")
 fileUrl<- "../data/household_power_consumption.txt"
 
